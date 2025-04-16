@@ -5,7 +5,7 @@ Upload 2025.02.11.
 
 # 优像光流上位机调参工具仓库说明文档
 
-点击这里切换至英文版本说明文档[Click here to switch to the English version of the instruction document：README_EN.md](./README_EN.md)
+点击这里切换至英文版本说明文档[Click here to switch to the English version of the instruction document：README.md](./README.md)
  
 ## 目录结构
 
