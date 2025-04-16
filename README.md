@@ -5,7 +5,7 @@ Upload 2025.02.11.
 
 # Upixels Optical Flow Upper Computer Parameter Adjustment Tool Repository Documentation
  
-点击这里切换至中文版本说明文档[Click here to switch to the Chinese version of the instruction document：README.md](./README.md)
+点击这里切换至中文版本说明文档[Click here to switch to the Chinese version of the instruction document：README_CN.md](./README_CN.md)
 
 ## Directory Structure
 
